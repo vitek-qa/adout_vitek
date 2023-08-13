@@ -51,3 +51,27 @@
 <p>В итоге посчитал допустимым выпустить проект в эксплуатацию<p>
 
 <p> [Документация к 2 этапу проекта](https://skyengpublic.notion.site/1-cd209a4dbeef4ccf9f8b9449b20eb497)https://skyengpublic.notion.site/1-cd209a4dbeef4ccf9f8b9449b20eb497</p>
+
+<p>Что нужно было сделать:<p>
+<ol>
+  
+  <p>Тестирование API<p>
+<p>Тестирование проводилось Postman<p>
+<p>Валидные проверки https://cloud.mail.ru/public/MWc3/bkYt7ZMNC<p>
+<p>Невалидные проверки https://cloud.mail.ru/public/HS1H/Q1aR7Gayw<p>
+<p>Коллекция https://cloud.mail.ru/public/ERGg/AgG1ZDB2p<p>
+<p>Переменные https://cloud.mail.ru/public/uMgg/BXcKYY2CT<p>
+
+<p>Выявлены 3 незначительных быга<p>
+<p>https://viktorb.atlassian.net/browse/C2-4<p>
+<p>https://viktorb.atlassian.net/browse/C2-3<p>
+<p>https://viktorb.atlassian.net/browse/C2-2<p>
+
+<p>доступ к jira<p>
+<p>79163048121@ya.ru<p>
+<p>User1111<p>
+
+<p>Вывод - продукт можно выводить в эксплуатацию<p>
+
+## Контактная информация
+- Telegram: viktorb13
