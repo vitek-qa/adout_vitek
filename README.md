@@ -53,8 +53,7 @@
 <p> [Документация к 2 этапу проекта](https://skyengpublic.notion.site/1-cd209a4dbeef4ccf9f8b9449b20eb497)https://skyengpublic.notion.site/1-cd209a4dbeef4ccf9f8b9449b20eb497</p>
 
 <p>Что нужно было сделать:<p>
-<ol>
-  
+
   <p>Тестирование API<p>
 <p>Тестирование проводилось Postman<p>
 <p>Валидные проверки https://cloud.mail.ru/public/MWc3/bkYt7ZMNC<p>
