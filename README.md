@@ -50,3 +50,4 @@
 <p>заведен баг-репорт https://viktorb.atlassian.net/browse/CAL-1<p>
 <p>В итоге посчитал допустимым выпустить проект в эксплуатацию<p>
 
+<p> [Документация к 2 этапу проекта](https://skyengpublic.notion.site/1-cd209a4dbeef4ccf9f8b9449b20eb497)https://skyengpublic.notion.site/1-cd209a4dbeef4ccf9f8b9449b20eb497</p>
